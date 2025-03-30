@@ -4,7 +4,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-**Spring System Monitoring** é um projeto desenvolvido durante o treinamento: Arquitetura de Aplicações Rest com Spring Web. Este sistema permite monitorar e analisar o desempenho de sistemas em tempo real usando o ecossistema Spring. Ele é projetado para ser escalável, fácil de integrar e altamente configurável.
+**Spring System Monitoring** é um projeto desenvolvido durante o treinamento: Arquitetura de Aplicações Rest com Spring Web, parte do bootcamp: Deal - Spring Boot e Angular (17+), realizado pela ![Dio.me](https://web.dio.me/home). Este sistema permite monitorar e analisar o desempenho de sistemas em tempo real usando o ecossistema Spring. Ele é projetado para ser escalável, fácil de integrar e altamente configurável.
 
 ## 🛠️ Funcionalidades
 
